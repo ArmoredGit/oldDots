@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(200,200,200);
+    color: rgb(0,0,0);
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+		margin: 0px 0px 0px 0px;
+		padding: 0px 0px 0px 0px;
+		overflow: hidden;
+}
+
+#content {
+    display: block;
+    margin-left: 0px;
+    margin-right: 0px;
+		margin: 0px 0px 0px 0px;
+		padding: 0px 0px 0px 0px;
+		overflow: hidden;
+}
